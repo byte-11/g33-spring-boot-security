@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: g33-spring-boot-security
+#  security:
+#    user:
+#      name: admin
+#      password: 1234
+#      roles: ADMIN
+
+jjwt:
+  token:
+    expiration-sec: 60
+    secret: dnkand=sinNxanx=q192dnxnxKNXASnx19xnakNXAINxaknxNxaknxsainxskNXKASN1ox=n1nx
